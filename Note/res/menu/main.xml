@@ -6,6 +6,6 @@
         android:id="@+id/add"
         android:orderInCategory="100"
         android:showAsAction="always"
-        android:title="Add"/>
+        android:title="Add"/>"
 
 </menu>
