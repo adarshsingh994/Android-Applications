@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_notes_text">No notes in here!</string>
+    <string name="default_note_title">Title</string>
+    <string name="default_note_body">Empty</string>
+
+    <string name="title_activity_note_explorer">NoteExplorerActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
